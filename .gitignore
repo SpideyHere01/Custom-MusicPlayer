@@ -1,0 +1,23 @@
+# Python virtual environments
+my_env/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Solution/user-specific files
+*.user
+*.suo
+
+# Music files (uncomment if you want to ignore your music files)
+# musicfolder/ 
