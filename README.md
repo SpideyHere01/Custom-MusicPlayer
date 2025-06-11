@@ -81,4 +81,4 @@ You may also need to install `ffmpeg` and ensure it's in your system PATH.
 
 ## License
 
-MIT License (add your own license if different). 
+MIT License 
